@@ -282,11 +282,7 @@ class Game {
         players[1].score;
 
       leader2 =
-        players[0].rank +
-        "&emsp;" +
-        players[0].name +
-        "&emsp;" +
-        players[0].score;
+ // complete o código de acordo com a lógica do segundo player
     }
 
     this.leader1.html(leader1);
